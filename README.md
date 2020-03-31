@@ -6,7 +6,7 @@
 
 <br>
 
-***Russian version - https://github.com/x11-repo/hack-tools ***
+***Russian version - https://github.com/x11-repo/hack-tools !***
 
 <br>
 
