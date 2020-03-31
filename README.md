@@ -4,8 +4,6 @@
 
 ***This English version***
 
-<br>
-
 ***Russian version - https://github.com/x11-repo/hack-tools !***
 
 <br>
