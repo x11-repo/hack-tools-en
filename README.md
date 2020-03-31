@@ -45,12 +45,12 @@
   + ***Installation***
     + *Faq to install on any OS you will find* [here.] (https://x11repo.site/HackTools/FAQ/)
 
-  + *** Launch on any OS ***
+  + ***Launch on any OS***
     + *cd*
     + *cd hack-tools-en*
     + *sudo python3 HackTools.py*
     
-  + *** Update ***
+  + ***Update***
     + *cd && rm -rf ~ / hack-tools-en*
     + *git clone https://github.com/x11-repo/hack-tools-en.git*
 
