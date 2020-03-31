@@ -24,6 +24,11 @@
 
 <br>
 
+#### This English version
+#### Russian version - https://github.com/x11-repo/hack-tools
+
+<br>
+
 ### Also! Please note that this is just a ***beta test***.
 #### Over time *** the functional will be added and bugs will be fixed ***
 #### If you have any suggestions, what can be added to this list of repositories
