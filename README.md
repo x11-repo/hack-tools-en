@@ -17,8 +17,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 </a> <br /> This work is licensed under the <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International License </a> .
 
-<h4> Hello young hacker! <br> Want to know the world of hacking, but don’t have time to install all repositories separately? <br> I came to the rescue! Indeed, in my repository collected more than half of the Kali Linux distribution kit tools! Can you imagine ?! <br> You can take a look at the functionality of this repository at the very bottom. </h4>
-
+<h4> Hello young hacker! <br> Want to know the world of hacking, but don’t have time to install all repositories separately? <br> I came to the rescue! Indeed, in my repository collected more than half of the Kali Linux distribution kit tools! Can you imagine ?! </h4>
 #### Join our telegram channel!
 #### Link - https://teleg.run/hacktools666 - RU and EN
 #### Nick - @ hacktools666
