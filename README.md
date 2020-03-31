@@ -24,7 +24,7 @@
 #### Nick - @ hacktools666
 
 ### Also! Please note that this is just a ***beta test***.
-#### Over time *** the functional will be added and bugs will be fixed ***
+#### Over time ***the functional will be added and bugs will be fixed***
 #### If you have any suggestions, what can be added to this list of repositories
 #### Email me - ***mail@x11repo.site***
 
