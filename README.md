@@ -1,5 +1,9 @@
 # 🔹🐍🔹 Hack Tools Beta 🔹🐍🔹 
 
+<br>
+#### This English version <br> Russian version - https://github.com/x11-repo/hack-tools
+<br>
+
 ## Global Beta 1.0 Update Now Online! <br> Updated PC version, for Android I will update in the near future: *
 
 ![Size](https://img.shields.io/github/repo-size/x11-repo/hack-tools-en)
@@ -21,11 +25,6 @@
 #### Join our telegram channel!
 #### Link - https://teleg.run/hacktools666 - RU and EN
 #### Nick - @ hacktools666
-
-<br>
-
-#### This English version
-#### Russian version - https://github.com/x11-repo/hack-tools
 
 <br>
 
