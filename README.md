@@ -41,7 +41,7 @@
     + *Full exit from CAT to OBT*
 
   + ***Installation***
-    + *Faq to install on any OS you will find* [here.] (https://x11repo.site/HackTools/FAQ/)
+    + *Faq to install on any OS you will find* [here.](https://x11repo.site/HackTools/FAQ/EN)
 
   + ***Launch on any OS***
     + *cd*
